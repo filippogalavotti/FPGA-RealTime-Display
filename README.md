@@ -35,5 +35,5 @@ L'FPGA controlla il display generando i segnali **VIDEO_SYNC** e **VIDEO_DATA** 
 
 ### Sintesi e timing in Quartus
 
-<img src="quartus_sintesi.png" alt="User1 view" width="600">
-<img src="wuartus_timing.png" alt="User2 view" width="600">
+<img src="quartus_sintesi.png" alt="quartus_sintesi" width="600">
+<img src="quartus_timing.png" alt="quartus_timing" width="600">
